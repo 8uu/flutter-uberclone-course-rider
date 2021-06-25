@@ -6,7 +6,7 @@ import 'package:google_sign_in/google_sign_in.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import 'package:ubercourserider/constants/firebase_constants.dart';
 import 'package:ubercourserider/models/user.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/home/home.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/home/home.dart';
 import 'package:flutter_facebook_login/flutter_facebook_login.dart';
 import 'package:nb_utils/nb_utils.dart';
 import 'package:ubercourserider/utils/services/user.dart';

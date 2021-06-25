@@ -3,10 +3,10 @@ import 'package:provider/provider.dart';
 import 'package:ubercourserider/providers/app.dart';
 import 'package:ubercourserider/providers/auth.dart';
 import 'package:ubercourserider/providers/phone.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/authentication/authentication.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/home/home.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/phone_number/phone_number_screen.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/splash/splash.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/authentication/authentication.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/home/home.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/phone_number/phone_number_screen.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/splash/splash.dart';
 import 'package:ubercourserider/widgets/loading.dart';
 
 void main() async{

@@ -5,7 +5,7 @@ import 'package:ubercourserider/providers/app.dart';
 import 'package:ubercourserider/providers/auth.dart';
 import 'package:ubercourserider/screens/home/widgets/map.dart';
 import 'package:ubercourserider/widgets/custom_text.dart';
-import 'file:///D:/projects/flutter-uberclone-course-rider/lib/screens/home/widgets/drop_off_selection_widget.dart';
+import 'file:///c:/Users/Saad.PC-RYV1/StudioProjects/flutter-uberclone-course-rider/lib/screens/home/widgets/drop_off_selection_widget.dart' as drop_off_selection_widget;
 import 'widgets/pickup_selection_widget.dart';
 
 class HomeScreen extends StatelessWidget {
